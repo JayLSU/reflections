@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 		Git generate a .git file and we need to use init to tell the git 
 		version control that we want to track the history of the current
 		directory.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+		Staging area is an intermediate space that allow us to track the 
+		specific files in staging area. It help us to track each logical
+		change at a time instead of track all the files in the working directory.
