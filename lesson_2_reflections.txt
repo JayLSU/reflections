@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+		Git generate a .git file and we need to use init to tell the git 
+		version control that we want to track the history of the current
+		directory.

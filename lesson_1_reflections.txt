@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It helps me to figure out what I have changed between different file verions.
+    Since bugs usually happens when we make changes to our codes,
+    diff can quickly find out where the changes made to help us locate the protential bug postion.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually creating a commit can provide a reasonable number of different versions
+    and each version can have a logic reason.
+    But sometimes we may lose the files before we can manually create commit. 
+    The automatically saved mechanism can avoid this problem.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    While modifying codes, it could have some external functions or variables,
+    saving multiple files in one commit can allow us update all related files
+    in a simpler way.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Using git log can display all the changes of each commits. 
+    Then find out the id of what we want to see the difference and the id before that commit.
+    After that, we can use git diff to compare the difference of that two versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control makes it easier to see the deletion and addition
+    between different versions.
+    These differences are the reason for new bugs.
+    We can quickly locate bugs and fix them.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Learning Data structure course and become a good coder!!!
