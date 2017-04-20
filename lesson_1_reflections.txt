@@ -42,4 +42,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Learning Data structure course and become a good coder!!!
+    Learning Data structure course and become a good coder

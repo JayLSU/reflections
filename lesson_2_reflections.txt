@@ -6,3 +6,5 @@ How is the staging area different from the working directory and the repository?
 		Staging area is an intermediate space that allow us to track the 
 		specific files in staging area. It help us to track each logical
 		change at a time instead of track all the files in the working directory.
+How can you use the staging area to make sure you have one commit per logical change?
+		I am not sure what I have written about commit is true. I have to test it.
