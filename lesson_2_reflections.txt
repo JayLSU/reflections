@@ -7,4 +7,10 @@ How is the staging area different from the working directory and the repository?
 		specific files in staging area. It help us to track each logical
 		change at a time instead of track all the files in the working directory.
 How can you use the staging area to make sure you have one commit per logical change?
-		I am not sure what I have written about commit is true. I have to test it.
+		I am not sure what I have written about commit is true. I have to test it. Yes, now I know that if i changed the file after i add it to staging area, nothing I can commit.
+		If i change the files before I add them to staging area, then I can commit them directly. 
+		However, as long as I made some changes, using git status will tell me what happened. 
+		If i  have not added them to staging area, the color is red.
+		If i have added them to the staging area after I changed the files, the color is green.
+		Through this way, no matter how many changes I have made, I can only add the related files in one logic to the staging area and 
+		commit them together. For the rest change, I could use another commit to commmit them in the other logic change.
