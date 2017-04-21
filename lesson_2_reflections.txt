@@ -14,3 +14,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 		If i have added them to the staging area after I changed the files, the color is green.
 		Through this way, no matter how many changes I have made, I can only add the related files in one logic to the staging area and 
 		commit them together. For the rest change, I could use another commit to commmit them in the other logic change.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+		If I want to do some experimental features that I dont want to 
+		make it in the update. I can use the branch to try those things.
+		Branches can help me keep the correct main/master version and 
+		at the same time I can try my new ideas in branches.
+
+
