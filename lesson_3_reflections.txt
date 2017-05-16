@@ -41,4 +41,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I want to add a new function or test some new features into 
+    program, I would like to try them in a separate branch to see it is
+    really bug-free or accepted by others. Other cases, I think I  would 
+    like to make changes just directly in master, which is more convienet
+    to keep the file up-to-date. 
